@@ -4,5 +4,8 @@ let divide = () => {
 
 let square = (a) =>{
   return a * a 
-  
+}
+
+let add = (x,y) => {
+  return a + b
 }
