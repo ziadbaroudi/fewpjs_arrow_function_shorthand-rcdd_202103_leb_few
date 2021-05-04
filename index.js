@@ -7,5 +7,5 @@ let square = (a) =>{
 }
 
 let add = (x,y) => {
-  return a + b
+  return x + y
 }
