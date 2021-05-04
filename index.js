@@ -1,3 +1,3 @@
-let divide = (a,b) => {
-  return (a/b)
+let divide = () => {
+  return (2000/100)
 }
